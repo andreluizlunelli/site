@@ -13,6 +13,18 @@
 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Desenvolvedor Senior em aplicações para WEB. Utilização de linguagens e tecnologias como: PHP, Javascript, Docker, HTML, CSS e GIT">
+        <meta property="og:type" content="website" />
+        <meta property="og:title" name="og:title" content="Programador André Luiz Lunelli">
+        <meta property="og:description" name="og:description" content="Desenvolvedor Senior em aplicações para WEB. Utilização de linguagens e tecnologias como: PHP, Javascript, Docker, HTML, CSS e GIT" />
+        <meta property="og:url" content="http://andreluizlunelli.com.br/" />
+        <meta property="og:image" content="http://andreluizlunelli.com.br/img/perfil.jpg">
+        <meta property="og:image:type" content="image/jpg">
+        <meta property="og:image:width" content="300">
+        <meta property="og:image:height" content="300">
+        <meta property="og:image:alt" content="Foto perfil programador">
+        <meta name="robots" content="index, follow">
+        <link href="http://andreluizlunelli.com.br/" rel="canonical">
 
         <title>Programador André Luiz Lunelli</title>
 
