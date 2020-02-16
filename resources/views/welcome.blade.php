@@ -14,6 +14,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Desenvolvedor Senior em aplicações para WEB. Utilização de linguagens e tecnologias como: PHP, Javascript, Docker, HTML, CSS e GIT">
+        <meta name="keywords" content="php, js, javascript, html, programador, programador web, programador back-end, desenvolvedor, desenvolvedor web, desenvolvedor back-end, solid, git, docker, andré luiz lunelli">
         <meta property="og:type" content="website" />
         <meta property="og:title" name="og:title" content="Programador André Luiz Lunelli">
         <meta property="og:description" name="og:description" content="Desenvolvedor Senior em aplicações para WEB. Utilização de linguagens e tecnologias como: PHP, Javascript, Docker, HTML, CSS e GIT" />
