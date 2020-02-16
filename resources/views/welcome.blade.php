@@ -52,10 +52,10 @@
                 </div>
             </li>
             <li><div class="divider"></div></li>
-            <li><a href="#">O que faço?</a></li>
-            <li><a href="#qualificacoes">Qualificações</a></li>
-            <li><a href="#contato">Contato</a></li>
-            <li><a target="_blank" href="https://drive.google.com/file/d/1qEnV67M89ofQwRA5lxHJ6xrtqQGsPGoE/view?usp=sharing">Currículo</a></li>
+            <li><a class="sidenav-close" href="#">O que faço?</a></li>
+            <li><a class="sidenav-close" href="#qualificacoes">Qualificações</a></li>
+            <li><a class="sidenav-close" href="#contato">Contato</a></li>
+            <li><a class="sidenav-close" target="_blank" href="https://drive.google.com/file/d/1qEnV67M89ofQwRA5lxHJ6xrtqQGsPGoE/view?usp=sharing">Currículo</a></li>
         </ul>
         <a href="#" data-target="slide-out" class="sidenav-trigger show-on-large"><i class="medium material-icons">menu</i></a>
     </header>
